@@ -1,0 +1,9 @@
+{
+	"name": "databricks-curso-felipe",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "72f0749e-6fbe-444e-a89d-76ba855214aa",
+		"tenantId": "4d38de82-05d5-4253-9530-5a2d0c893836"
+	}
+}
